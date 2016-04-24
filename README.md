@@ -2,7 +2,7 @@
 
 This repository follows Google's [TensorFlow Tutorials](https://www.tensorflow.org/tutorials/index.html).
 
-1. MNIST for ML Beginner ([tutorial](https://www.tensorflow.org/tutorials/mnist/beginners/index.html))
+1. MNIST for ML Beginner ([tutorial](https://www.tensorflow.org/tutorials/mnist/beginners/index.html), [code](01-mnist-for-ml-beginners/01-mnist-for-ml-beginners.py))
 2. Deep MNIST for Experts ([tutorial](https://www.tensorflow.org/tutorials/mnist/pros/index.html))
 3. TensorFlow Mechanics 101 ([tutorial](https://www.tensorflow.org/tutorials/mnist/tf/index.html))
 4. TensorFlow Serving ([tutorial](https://www.tensorflow.org/tutorials/tfserve/index.html))
